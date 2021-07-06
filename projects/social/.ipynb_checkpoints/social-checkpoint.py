@@ -1,6 +1,3 @@
-import random
-import time
-
 class Queue():
     def __init__(self):
         self.queue = []
